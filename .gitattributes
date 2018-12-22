@@ -1,0 +1,2 @@
+IJKMediaFramework/IJKMediaFramework.framework/IJKMediaFramework filter=lfs diff=lfs merge=lfs -text
+IJKMediaFrameworkWithSSL/IJKMediaFrameworkWithSSL.framework/IJKMediaFrameworkWithSSL filter=lfs diff=lfs merge=lfs -text
